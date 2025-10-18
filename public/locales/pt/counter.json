@@ -1,0 +1,9 @@
+{
+  "currentValue": "Valor Atual",
+  "decrement": "Decrementar",
+  "increment": "Incrementar",
+  "madeWith": "Feito com React + Vite",
+  "reset": "Resetar",
+  "subtitle": "Contador",
+  "title": "Contador"
+}
