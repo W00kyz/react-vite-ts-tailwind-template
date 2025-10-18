@@ -18,6 +18,7 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "lint": "eslint .",
+    "test": "vitest",
     "preview": "vite preview",
     "i18n:lint": "i18next-cli lint",
     "i18n:sync": "node scripts/sync-i18n-namespaces.js",
